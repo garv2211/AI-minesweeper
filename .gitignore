@@ -1,0 +1,10 @@
+*.class
+
+# IntelliJ #
+build
+out
+*.iml
+*.ipr
+*.iws
+.idea
+.gradle
